@@ -28,7 +28,7 @@ class GeminiAdvanced:
         genai.configure(api_key=self.api_key)
         
         # 从 .env 文件读取配置，如果没有则使用默认值
-        self.model_name = model_name or os.getenv("DEFAULT_MODEL", "gemini-1.5-flash")
+        self.model_name = model_name or os.getenv("DEFAULT_MODEL", "gemini-2.5-flash")
         
         # 从 .env 文件读取安全设置配置
         safety_level = os.getenv("SAFETY_LEVEL", "BLOCK_MEDIUM_AND_ABOVE")
@@ -62,7 +62,7 @@ class GeminiAdvanced:
             "temperature": float(os.getenv("DEFAULT_TEMPERATURE", "0.7")),
             "top_p": float(os.getenv("DEFAULT_TOP_P", "0.8")),
             "top_k": int(os.getenv("DEFAULT_TOP_K", "40")),
-            "max_output_tokens": int(os.getenv("DEFAULT_MAX_TOKENS", "1000")),
+            "max_output_tokens": int(os.getenv("DEFAULT_MAX_TOKENS", "10000")),
         }
     
     def show_config(self):
