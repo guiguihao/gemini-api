@@ -20,11 +20,9 @@
 
 ### 1. 环境准备
 
+    #### 推荐
+    vscode 插件 Python Environment Manager (deprecated)
 ```bash
-# 创建虚拟环境（推荐）
-python -m venv .venv
-source .venv/bin/activate  # macOS/Linux
-# 或 .venv\Scripts\activate  # Windows
 
 # 安装依赖
 pip install -r requirements.txt
@@ -39,8 +37,7 @@ export GOOGLE_API_KEY='your_api_key_here'
 
 **方法 2：.env 文件**
 ```bash
-# 复制示例文件
-cp .env.example .env
+
 # 编辑 .env 文件，填入您的 API 密钥
 ```
 
@@ -102,7 +99,7 @@ genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 model = genai.GenerativeModel('gemini-2.5-flash')
 
 # 生成文本
-response = model.generate_content("写一个关于 AI 的故事")
+response = model.generate_content("写一个关于 小美 的故事")
 print(response.text)
 ```
 
