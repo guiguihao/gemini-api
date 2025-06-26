@@ -1,0 +1,17 @@
+AI 图片生成提示词
+==================================================
+生成时间：2025-06-26 16:29:11
+
+基础提示词：
+beautiful cat sitting on a windowsill
+
+变体 1：
+变体 1：
+Impressionistic oil painting of a fluffy ginger tabby cat, bathed in soft golden hour light, perched elegantly on a rustic wooden windowsill. Dust motes dance in the warm sunbeams, illuminating the subtle textures of its fur. Through the window, a serene, slightly blurred autumnal garden is visible. Tranquil and cozy atmosphere, with rich, painterly brushstrokes.
+
+变体 2：
+A serene watercolor painting of a fluffy ginger cat, peacefully curled up on a warm, sun-drenched wooden windowsill. Golden hour light streams through the window, illuminating tiny dust motes dancing in the air. In the softly blurred background, a vibrant, impressionistic garden is visible.
+
+变体 3：
+Impressionistic oil painting of a majestic, fluffy calico cat elegantly poised on a sun-drenched wooden windowsill. Golden hour light streams through, creating a soft, atmospheric bokeh effect with subtle dust motes dancing in the air. A single, delicate potted herb sits beside the cat, adding to the serene and dreamlike quality.
+

@@ -1,0 +1,13 @@
+AI 图片生成提示词
+==================================================
+生成时间：2025-06-26 16:28:28
+
+原始描述：
+一只在花园里玩耍的金毛犬
+
+选择风格：
+photorealistic
+
+生成提示词：
+A joyous Golden Retriever, playfully frolicking through a lush, sun-dappled garden. Its vibrant, golden-blond fur shimmers under the warm, diffused natural light of the golden hour. The dog is captured in a dynamic, expressive pose, perhaps mid-leap or with a playful grin and wagging tail. The background features an array of blooming, colorful flowers like roses and hydrangeas, alongside rich green foliage. Photorealistic, hyperrealistic, high-fidelity photography, naturalism. Ultra-detailed, intricate textures, sharp focus, high resolution, 8K, stunning composition, professional-grade, award-winning photograph, masterpiece. Golden hour lighting, natural light, shallow depth of field, creamy bokeh, precise light and shadow, cinematic color grading, DSLR photography.
+
